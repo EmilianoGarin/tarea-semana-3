@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <dimen name="marginBottom_cv">2dp</dimen>
+        <dimen name="cardCornerRadius_cv">2dp</dimen>
+        <dimen name="height_cv">200dp</dimen>
+        <dimen name="height_nombre">40dp</dimen>
+        <dimen name="width_nombre">290dp</dimen>
+        <dimen name="tamaño_n">30sp</dimen>
+        <dimen name="elev_ab">4dp</dimen>
+        <dimen name="fab_dim">90dp</dimen>
+</resources>
